@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.main{
+    height: 75vh;
+    background-color: rgb(47, 52, 53);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    display: flex;
+    justify-content: space-around ;
+    flex-wrap: wrap;
+    padding: 0px;
+}
+.logo{
+    width: 20%;
+    margin: 0px;
+}
+.nav{
+    width: 75%;
+    margin-top: 30px;
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+ul li{
+    display: inline;
+    margin: 20px;
+ 
+}
