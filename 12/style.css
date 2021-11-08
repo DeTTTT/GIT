@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    width: 25%;
+    height: 60vh;
+    background-color: darkkhaki;
+}
+.header{
+    height: 100px;
+    background-color: darkturquoise;
+    text-align: center;
+}
+h1{
+    padding: 25px;
+}
+.right{
+    width: 25%;
+    height: 60vh;
+    background-color: darkseagreen;
+}
